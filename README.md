@@ -63,26 +63,38 @@ class About extends Me {
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m a **Front-End Developer (React)**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **PC building, Movies, or anything**. <br>
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />  &nbsp; Email me at : **mohamed.hamdielsaid@gmail.com**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >
+  &nbsp;&nbsp;
 <h2 id="-streak-stats--languages">🔥 Streak Stats &amp; Languages</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypavasiya&amp;theme=algolia&amp;layout=compact" alt="MohamedHamdi"></p>
-  
-<hr></hr> 
- <p><br><br></p><h2 align="center">Contact:</h2><br><p></p>
-<div align="center">
-<a href="https://www.linkedin.com/in/jeremy-cusinmermet/"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=fff&amp;labelColor=282828">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://github.com/jrmydix"><img src="https://img.shields.io/badge/-Github-f0f6fc?style=for-the-badge&amp;logo=github&amp;logoColor=fff&amp;labelColor=282828"></a>
-<p><br><br>
-📧 Mail : <a href="mailto:jeremy.cusinmermet@pm.me">jeremy.cusinmermet@pm.me</a></p>
-<p>🔗 Personnal website : <a href="https://react-portfolio-2ce53.web.app/">portfolio Mohamed-Hamdi-dev</a></p>
-</div><br>
-<hr>
+&nbsp;&nbsp;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypavasiya&amp;theme=algolia&amp;layout=compact" alt="MohamedHamdi">
+</p>
 
-<p>
+<p></p>
+
+<h2 align="center">Contact:</h2>
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jeremy-cusinmermet/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=fff&amp;labelColor=282828">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/jrmydix">
+    <img src="https://img.shields.io/badge/-Github-f0f6fc?style=for-the-badge&amp;logo=github&amp;logoColor=fff&amp;labelColor=282828">
+  </a>
+
+  <p><br><br>
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Mail : <a href="mailto:jeremy.cusinmermet@pm.me">mohamed.hamdielsaid@gmail.com</a>
+  </p>
+  <p><img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Personnal website : 
+    <a href="https://react-portfolio-2ce53.web.app/">portfolio Mohamed-Hamdi-dev</a>
+  </p>
 </div>
+
 <div align="center" >
       <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30">
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30">
