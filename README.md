@@ -2,9 +2,9 @@
   
 # 👋 Hi, I'm **Mohamed Hamdi**  
 💻 *Front-End Developer (React.js)*  
-
+<div class="margin-bottom=100em">
 <img align="right" src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Penguin.png?raw=true" alt="Penguin" width="18%" />
-
+</div>
   <!-- Header -->
 <h1 align="center">
 
