@@ -17,7 +17,7 @@ I focus on clean design, performance, and seamless user experience.
   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,git,github,vscode,cpp,firebase,tailwind,bootstrap" />
 </p>
 
-```dart
+
 class AboutMe {
   const myTools = {
     "Frontend": { "React.js", "TypeScript", "JavaScript", "HTML5", "CSS3" },
