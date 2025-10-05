@@ -84,7 +84,7 @@ class About extends Me {
     </a>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mohamed-hamdi-accountofficial/">
+  <a href="https://github.com/mohamed-hamdi-dev">
     <img src="https://img.shields.io/badge/-Github-f0f6fc?style=for-the-badge&amp;logo=github&amp;logoColor=fff&amp;labelColor=282828">
   </a>
 
