@@ -79,8 +79,9 @@ class About extends Me {
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jeremy-cusinmermet/">
-    <img src="ww.linkedin.com/in/mohamed-hamdi-accountofficial">
+  <a href="ww.linkedin.com/in/mohamed-hamdi-accountofficial/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=fff&amp;labelColor=282828">
+    </a>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/jrmydix">
