@@ -2,9 +2,9 @@
   
 # 👋 Hi, I'm **Mohamed Hamdi**  
 💻 *Front-End Developer (React.js)*  
-<div class="margin-bottom=100em">
+
 <img align="right" src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Penguin.png?raw=true" alt="Penguin" width="18%" />
-</div>
+
   <!-- Header -->
 <h1 align="center">
 
@@ -91,12 +91,8 @@
   <a href="https://expressjs.com" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/express.svg" alt="ExpressJS" height="40"></code>
   </a>
-  <a href="https://nestjs.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/nest.svg" alt="NestJS" height="40"></code>
-  </a>
-  <a href="https://spring.io" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/spring.svg" alt="Spring" height="40"></code>
-  </a>
+ 
+
 </p>
 <br>
 <br>
