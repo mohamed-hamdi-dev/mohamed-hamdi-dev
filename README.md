@@ -16,7 +16,7 @@
 <p align="center">
   <b>I'm a passionate programmer who loves to code</b>
 </p>
-
+<div class="container width:30px container">
 <p>
 <ul>
 <li>♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.</li>
@@ -26,6 +26,7 @@
 <li>💬 I’m looking forward to contribute to <strong>Open Source Projects</strong>.</li>
 <li>Show ❤ by giving ⭐ to my Repositories, at least your star could make someone’s day 😄.</li>
 </ul>
+</div>
 <h2>Tech stack</h2>
 <p align="center">
   <b>Languages</b>
@@ -79,20 +80,7 @@
 <br>
 <br>
 <p align="center">
-  <b>Backend</b>
-  <br>
-  <br>
-  <a href="https://nodejs.org" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/node.svg" alt="NodeJS" height="40"></code>
-  </a>
-  <br>
-  <a href="https://expressjs.com" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/express.svg" alt="ExpressJS" height="40"></code>
-  </a>
- 
 
-</p>
-<br>
 <br>
 <p align="center">
   <b>System &amp; DevOps</b>
@@ -147,39 +135,7 @@
 <details> 
   <summary><b>📊 Wakatime Stats</b></summary>
   <br>
-<!--START_SECTION:waka-->
-<p><img src="http://img.shields.io/badge/Code%20Time-216%20hrs%2024%20mins-blue" alt="Code Time"></p>
-<p><strong>I’m a Night 🦉</strong></p>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>🌞 Morning    84 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.83%</span></span>
-<span class="line"><span>🌆 Daytime    145 commits    ███████░░░░░░░░░░░░░░░░░░   30.79%</span></span>
-<span class="line"><span>🌃 Evening    194 commits    ██████████░░░░░░░░░░░░░░░   41.19%</span></span>
-<span class="line"><span>🌙 Night      48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.19%</span></span>
-<span class="line"><span></span></span></code></pre>
-<p>📅 <strong>I’m Most Productive on Tuesday</strong></p>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>Monday       73 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.5%</span></span>
-<span class="line"><span>Tuesday      86 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.26%</span></span>
-<span class="line"><span>Wednesday    74 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.71%</span></span>
-<span class="line"><span>Thursday     36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.64%</span></span>
-<span class="line"><span>Friday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.68%</span></span>
-<span class="line"><span>Saturday     62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.16%</span></span>
-<span class="line"><span>Sunday       85 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.05%</span></span>
-<span class="line"><span></span></span></code></pre>
-<p>📊 <strong>This Week I Spent My Time On</strong></p>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span>⌚︎ Time Zone: Asia/Ho_Chi_Minh</span></span>
-<span class="line"><span></span></span>
-<span class="line"><span>💬 Programming Languages:</span></span>
-<span class="line"><span>Other                    18 hrs 45 mins      █████████████████░░░░░░░░   69.59%</span></span>
-<span class="line"><span>TypeScript               3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.19%</span></span>
-<span class="line"><span>CSS                      2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.22%</span></span>
-<span class="line"><span>Java                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.1%</span></span>
-<span class="line"><span>JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49%</span></span>
-<span class="line"><span></span></span>
-<span class="line"><span>🔥 Editors:</span></span>
-<span class="line"><span>Browser                  18 hrs 2 mins       ████████████████░░░░░░░░░   66.94%</span></span>
-<span class="line"><span>VS Code                  7 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.97%</span></span>
-<span class="line"><span>NetBeans                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.09%</span></span>
-<span class="line"><span></span></span></code></pre>
-<!--END_SECTION:waka-->
+
 </details>
 <!-- Connection -->
 <h2> Connect with me <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h2>
