@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://github.com/oHTGo/oHTGo/blob/main/images/logo.svg" width="500">
   <br>
-  Hi, I'm Nguyễn Nhật Huy - aka Lil Huy <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
+  Hi, I'm Mohamed Hamdi <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
 </h1>
 <!-- Counter -->
 <p align="center">
@@ -11,7 +11,7 @@
 <p align="center">
   <b>I'm a passionate programmer who loves to code</b>
 </p>
-<img align="right" src="https://github.com/oHTGo/oHTGo/blob/main/images/coding.gif" width="400">
+
 <br>
 <ul>
 <li>♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.</li>
