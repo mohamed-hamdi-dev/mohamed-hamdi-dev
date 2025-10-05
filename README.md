@@ -70,7 +70,18 @@ class About extends Me {
 <h2 id="-streak-stats--languages">🔥 Streak Stats &amp; Languages</h2>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypavasiya&amp;theme=algolia&amp;layout=compact" alt="MohamedHamdi"></p>
   
-<hr></hr>
+<hr></hr> 
+ <p><br><br></p><h2 align="center">Contact:</h2><br><p></p>
+<div align="center">
+<a href="https://www.linkedin.com/in/jeremy-cusinmermet/"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=fff&amp;labelColor=282828">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://github.com/jrmydix"><img src="https://img.shields.io/badge/-Github-f0f6fc?style=for-the-badge&amp;logo=github&amp;logoColor=fff&amp;labelColor=282828"></a>
+<p><br><br>
+📧 Mail : <a href="mailto:jeremy.cusinmermet@pm.me">jeremy.cusinmermet@pm.me</a></p>
+<p>🔗 Personnal website : <a href="https://react-portfolio-2ce53.web.app/">portfolio Mohamed-Hamdi-dev</a></p>
+</div><br>
+<hr>
+
+<p>
 </div>
 <div align="center" >
       <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30">
