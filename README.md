@@ -26,7 +26,7 @@
   <b>Languages</b>
   <br>
   <br>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/c.svg" alt="C" height="40"></code>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -197,5 +197,4 @@
   <em>Lil Huy</em>
 </p>
 <hr>
-<p>Credits: <a href="https://github.com/oHTGo">oHTGo</a></p>
-<p>Last Edited on: 26/02/2022</p> 
+
