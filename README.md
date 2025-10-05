@@ -5,14 +5,6 @@
 
 <img align="right" src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Animals/Penguin.png?raw=true" alt="Penguin" width="18%" />
 
-
-### 🧰 Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,git,github,vscode,cpp,firebase,tailwind,bootstrap" />
-</p>
-
-}
   <!-- Header -->
 <h1 align="center">
 
@@ -209,8 +201,6 @@
 <p align="right">
   <img alt="Signal" height="25px" src="https://media.giphy.com/media/hlRzt8TxCNVcEZBt9w/giphy.gif">
   <br>
-  <em>Lil Huy</em>
+  <em>Mohamed Hamdi</em>
 </p>
 <hr>
-<p>Credits: <a href="https://github.com/oHTGo">oHTGo</a></p>
-<p>Last Edited on: 26/02/2022</p> 
