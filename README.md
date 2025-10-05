@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello Coders" width="80"/> <br>
-<img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/coding.gif" alt="mohamed-hamdi-dev" width="45%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+
 
 ### 👋 Hey there, I'm **Mohamed Hamdi**  
 #### 🚀 Frontend Developer | React.js Enthusiast  
