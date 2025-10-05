@@ -79,6 +79,11 @@ class About extends Me {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
 
+<p align="center">
+  <a href="https://app.lottiefiles.com/animation/70eda380-4dc4-4814-a96b-c5e28f7a271c" target="_blank">
+    <img src="https://lottie.host/70eda380-4dc4-4814-a96b-c5e28f7a271c/animation.gif" alt="Lottie Animation" width="40%">
+  </a>
+</p>
 
 <!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
 
