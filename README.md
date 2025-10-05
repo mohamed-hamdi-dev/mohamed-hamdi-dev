@@ -1,9 +1,7 @@
-<div align="center">
-  
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="mohamed-hamdi-dev" width="40%"/><br> 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello Coders" width="80"/> <br>
+<img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/coding.gif" alt="mohamed-hamdi-dev" width="45%"/><br> 
 
 ### 👋 Hey there, I'm **Mohamed Hamdi**  
 #### 🚀 Frontend Developer | React.js Enthusiast  
@@ -31,7 +29,6 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
@@ -42,4 +39,3 @@ class AboutMe {
     "Tools": { "Git", "VS Code", "Bootstrap", "Tailwind", "Firebase", "C++" },
   };
 }
-
