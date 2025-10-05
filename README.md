@@ -32,7 +32,9 @@ Mohamed😎😎😎😎😎😎😎😎😎😎
    &nbsp; &nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="80">
    &nbsp; &nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="80">
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" 
+     alt="GitHub" width="80" 
+     style="background-color: white; border-radius: 10px; padding: 5px;">
    &nbsp; &nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="90" height="100">
    &nbsp; &nbsp; 
