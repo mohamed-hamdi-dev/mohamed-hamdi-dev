@@ -4,7 +4,7 @@
   <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20React%20Enthusiast;Always%20learning%20new%20things&amp;center=true&amp;width=500&amp;height=50"></a>
 </p>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/>
+[<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/>](https://app.lottiefiles.com/animation/d37beb30-6af4-4c1c-9b39-f7af150dd94f)
 
 <details>
 Mohamed😎😎😎😎😎😎😎😎😎😎
@@ -80,7 +80,7 @@ class About extends Me {
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jeremy-cusinmermet/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=fff&amp;labelColor=282828">
+    <img src="ww.linkedin.com/in/mohamed-hamdi-accountofficial">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/jrmydix">
