@@ -8,7 +8,7 @@
   <!-- Header -->
 <h1 align="center">
 
-  <br>
+  <p>
   Hi, I'm Mohamed Hamdi <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
 </h1>
 <!-- Counter -->
@@ -19,7 +19,7 @@
   <b>I'm a passionate programmer who loves to code</b>
 </p>
 
-<br>
+<p>
 <ul>
 <li>♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.</li>
 <li>📓 I’m a student of <a href="https://hcmuni.fpt.edu.vn">VNU HCMC FPT University</a>.</li>
