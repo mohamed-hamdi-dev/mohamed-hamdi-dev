@@ -8,10 +8,8 @@
   <!-- Header -->
 <h1 align="center">
 
-  <p>
-  Hi, I'm Mohamed Hamdi <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
-</h1>
-<!-- Counter -->
+  
+
 <p align="center">
   <img alt="Profile 𝚟𝚒𝚎𝚠𝚜" height="20px" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/oHTGo&amp;count_bg=%23579E91&amp;title_bg=%23555555&amp;icon=&amp;icon_color=%23E7E7E7&amp;title=Views&amp;edge_flat=false">
 </p>
