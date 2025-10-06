@@ -1,18 +1,27 @@
 
 
-
 <div align="center" width="50">
-  <h1 align="center" style="font-size: 3em; font-family: 'Arial Black', Arial, sans-serif;">Hi, I'm Mohamed Hamdi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  <p align="center">
-      &nbsp; &nbsp; 
-    <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-    <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <h1 align="center" style="font-size: 3em; font-family: 'Arial Black', Arial, sans-serif;">
+    Hi, I'm Mohamed Hamdi 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  </h1>
+
+  <p align="center" style="position: relative;">
+    <img 
+      align="right" 
+      src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" 
+      width="200" 
+      style="margin: 10px 40px 10px 10px; border-radius: 10px;"  >
+    <a href="https://github.com/jaypavasiya">
+      <img 
+        src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"
+        alt="Typing animation"
+      >
+    </a>
   </p>
+</div>
+
   &nbsp; &nbsp; 
-    &nbsp; &nbsp; 
-    &nbsp; &nbsp; 
-    &nbsp; &nbsp; 
-    &nbsp; &nbsp; 
   <div><details >
   &nbsp; &nbsp; 
     
@@ -26,7 +35,7 @@
   ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
-</div>
+</div> 
 
 <hr></hr>
 <br>
