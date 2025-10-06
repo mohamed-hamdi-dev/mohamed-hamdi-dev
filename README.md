@@ -1,5 +1,3 @@
-
-
 <div align="center" width="50">
   <h1 align="center" style="font-size: 3em; font-family: 'Arial Black', Arial, sans-serif;">
     Hi, I'm Mohamed Hamdi 
@@ -8,10 +6,10 @@
 
   <p align="center" style="position: relative;">
     <img 
-      align="right" 
+      id="dev-gif"
       src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" 
       width="200" 
-      style="margin: 10px 40px 10px 10px; border-radius: 10px;"  >
+      style="margin: 10px 40px 10px 10px; border-radius: 10px; float: right;" >
     <a href="https://github.com/jaypavasiya">
       <img 
         src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"
@@ -20,6 +18,8 @@
     </a>
   </p>
 </div>
+
+
 
   &nbsp; &nbsp; 
   <div><details >
