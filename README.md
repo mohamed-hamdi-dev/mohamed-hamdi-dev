@@ -24,7 +24,7 @@
   &nbsp; &nbsp; 
   <div><details >
   &nbsp; &nbsp; 
-    
+      <summary>Open ⬇️</summary>
   <div style="direction: rtl; text-align: center; font-family: 'Amiri', serif; background: #fafafa; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px rgba(0,0,0,0.1); margin: 10px auto; width: 100%;">
         <p style="font-size: 28px; margin: 10px 0; color: #222;">وَأَنْ لَيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ</p>
       &nbsp; &nbsp; 
