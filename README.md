@@ -1,19 +1,20 @@
+
+
+
 <div align="center" width="50">
-  <h1 align="center">Hi , I'm Mohamed Hamdi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20React%20Enthusiast;Always%20learning%20new%20things&amp;center=true&amp;width=500&amp;height=50"></a>
-</p>
+  <h1 align="center" style="font-size: 3em; font-family: 'Arial Black', Arial, sans-serif;">Hi, I'm Mohamed Hamdi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <p align="center">
+    <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+    <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  </p>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
- <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  <div><details>
+    Mohamed😎😎😎😎😎😎😎😎😎😎
+  </details> </div>
 
-<details>
-Mohamed😎😎😎😎😎😎😎😎😎😎
+  ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
 
-</details>
-
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-
+</div>
 </div>
 
 <hr></hr>
