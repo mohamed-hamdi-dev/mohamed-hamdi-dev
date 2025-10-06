@@ -8,9 +8,14 @@
     <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
     <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
   </p>
-
+  &nbsp; &nbsp; 
+    &nbsp; &nbsp; 
+    &nbsp; &nbsp; 
+    &nbsp; &nbsp; 
+    &nbsp; &nbsp; 
   <div><details >
   &nbsp; &nbsp; 
+    
   <div style="direction: rtl; text-align: center; font-family: 'Amiri', serif; background: #fafafa; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px rgba(0,0,0,0.1); margin: 10px auto; width: 100%;">
         <p style="font-size: 28px; margin: 10px 0; color: #222;">وَأَنْ لَيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ</p>
       &nbsp; &nbsp; 
