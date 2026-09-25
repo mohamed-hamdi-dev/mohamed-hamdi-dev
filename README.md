@@ -1,151 +1,295 @@
-<div align="center" width="50">
-  <h1 align="center" style="font-size: 3em; font-family: 'Arial Black', Arial, sans-serif;">
-    Hi, I'm Mohamed Hamdi 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  </h1>
+<!-- ====================================================== -->
+<!--                MOHAMED HAMDI • PROFILE                 -->
+<!-- ====================================================== -->
 
-  <p align="center" style="position: relative;">
-    <img 
-      id="dev-gif"
-      src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" 
-      width="200" 
-      style="margin: 10px 40px 10px 10px; border-radius: 10px; float: right;" >
-    <a href="https://github.com/jaypavasiya">
-      <img 
-        src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;JavaScript%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"
-        alt="Typing animation"
-      >
-    </a>
-  </p>
-</div>
-
-
-
-  &nbsp; &nbsp; 
-  <div><details >
-  &nbsp; &nbsp; 
-      <summary>Open ⬇️</summary>
-  <div style="direction: rtl; text-align: center; font-family: 'Amiri', serif; background: #fafafa; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px rgba(0,0,0,0.1); margin: 10px auto; width: 100%;">
-        <p style="font-size: 28px; margin: 10px 0; color: #222;">وَأَنْ لَيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ</p>
-      &nbsp; &nbsp; 
-      </div>
-
-  </details> </div>
-
-  ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
-
-</div>
-</div> 
-
-<hr></hr>
-<br>
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="80"> 
-  &nbsp; &nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="80">
-   &nbsp; &nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80">
-   &nbsp; &nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="80">
-   &nbsp; &nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="80">
-   &nbsp; &nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="80">
-   &nbsp; &nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="80">
-   &nbsp; &nbsp; 
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" 
-     alt="GitHub" width="80" 
-     style="background-color: white; border-radius: 10px; padding: 5px;">
-   &nbsp; &nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="90" height="100">
-   &nbsp; &nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="80">
+
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0D1117,50:7C3AED,100:06B6D4&text=MOHAMED%20HAMDI&fontColor=FFFFFF&fontSize=52&fontAlignY=43&desc=FULL-STACK%20DEVELOPER&descAlignY=61&descSize=20&animation=fadeIn"
+/>
+
+<img
+src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;Building+Frontend+%2B+Backend+Experiences;REST+APIs+%E2%80%A2+Supabase+%E2%80%A2+PostgreSQL;AI+%26+Chatbot+Integration;Turning+Ideas+Into+Real+Products"
+/>
+
+<br>
+
+<a href="https://react-portfolio-2ce53.web.app/">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mohamed-hamdi-accountofficial/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:mohamed.hamdielsaid@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=mohamed-hamdi-dev&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>
-<p><br></p>
 
+<br>
 
+---
 
-```dart
-// tools_I_use organized
+<div align="center">
 
-class About extends Me { 
-  const myTools = {  
-    "ProgramingLanguages" : {  "Python", "Javascript", "c++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json"},
-    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
-    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
-    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Photoshop", "Lightroom" }
-  };
-}
-```
+## 👋 About Me
 
- &nbsp; &nbsp; 
+### Full-Stack Developer building modern digital experiences.
 
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m a **Front-End Developer (React)**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I enjoy creating <b>modern, responsive, and user-friendly UIs</b>.<br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;  Always improving my skills in <b>JavaScript, TypeScript, and performance optimization</b> <br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; Fun fact: I can spend hours fixing one line of code just for perfect UI 😄.<br>
+I build **fast, responsive and scalable web applications**  
+from polished user interfaces to APIs, databases and backend services.
 
-<div align="center" >
-  &nbsp;&nbsp;
-<h2 id="-streak-stats--languages">🔥 Streak Stats &amp; Languages</h2>
+Currently focused on **React • TypeScript • Node.js • PostgreSQL • Supabase • AI**
+
+<br>
+
+📍 Egypt &nbsp; • &nbsp; 💻 Full-Stack &nbsp; • &nbsp; 🚀 Open to building cool things
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## ⚡ My Stack
+
+### Frontend
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,vite&theme=dark"/>
+
+<br><br><br>
+
+### Backend
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,npm&theme=dark"/>
+
 &nbsp;&nbsp;
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaypavasiya&amp;theme=algolia&amp;layout=compact" alt="MohamedHamdi">
-</p>
 
-<p></p>
+<img src="https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=fastapi&logoColor=22D3EE"/>
 
-<h2 align="center">Contact:</h2>
+<br><br><br>
+
+### Database & Cloud
+
 <br>
 
+<img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,sqlite&theme=dark"/>
+
+<br><br><br>
+
+### Development Tools
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"/>
+
+<br><br><br>
+
+### Languages
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp&theme=dark"/>
+
+</div>
+
+<br>
+
+---
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-hamdi-accountofficial/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=fff&amp;labelColor=282828">
-    </a>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mohamed-hamdi-dev">
-    <img src="https://img.shields.io/badge/-Github-f0f6fc?style=for-the-badge&amp;logo=github&amp;logoColor=fff&amp;labelColor=282828">
-  </a>
 
-  <p><br><br>
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Mail : <a href="mailto:jeremy.cusinmermet@pm.me">mohamed.hamdielsaid@gmail.com</a>
-  </p>
-  <p><img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; Personnal website : 
-    <a href="https://react-portfolio-2ce53.web.app/">portfolio Mohamed-Hamdi-dev</a>
-  </p>
+## ✦ What I Do
+
+<br>
+
+### ⚛️ Frontend Development
+
+Modern interfaces built with  
+**React • TypeScript • Tailwind • Vite**
+
+<br>
+
+`Responsive Design`　`Reusable Components`　`Modern UI`　`Performance`
+
+<br><br>
+
+### ◈ Backend Development
+
+Building application logic and connecting services using  
+**Node.js • REST APIs • Supabase**
+
+<br>
+
+`Authentication`　`API Integration`　`Server Logic`　`Data Handling`
+
+<br><br>
+
+### ◉ Database
+
+Working with structured and cloud data using  
+**PostgreSQL • Supabase • Firebase • SQLite**
+
+<br>
+
+`Database Design`　`CRUD`　`Queries`　`Data Management`
+
+<br><br>
+
+### ✦ AI & Chatbots
+
+Integrating AI capabilities into modern web applications.
+
+<br>
+
+`AI APIs`　`Chatbots`　`Smart UI`　`AI Integration`
+
 </div>
 
-<div align="center" >
-      <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30">
-   
+<br>
+
+---
+
+<div align="center">
+
+## 🚀 Full-Stack Workflow
+
+<br>
+
+### `Idea`
+
+↓
+
+### `UI / UX`
+
+↓
+
+### `React + TypeScript`
+
+↓
+
+### `Node.js + REST API`
+
+↓
+
+### `PostgreSQL / Supabase`
+
+↓
+
+### `AI Integration`
+
+↓
+
+### `Deploy 🚀`
+
+<br>
+
+**DESIGN → DEVELOP → CONNECT → OPTIMIZE → SHIP**
+
 </div>
 
+<br>
+
+---
+
+<div align="center">
+
+## 🧠 Currently Exploring
+
+<br>
+
+<img src="https://img.shields.io/badge/Advanced_React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Backend_Architecture-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI_Integration-0D1117?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Web_Performance-0D1117?style=for-the-badge&logo=lighthouse&logoColor=F44B21"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E"/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 📈 Development Activity
+
+<br>
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-hamdi-dev&bg_color=0D1117&color=8B949E&line=7C3AED&point=22D3EE&area=true&area_color=7C3AED&hide_border=true"
+width="95%"
+alt="Mohamed Hamdi GitHub Activity"
+/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+## 🌐 Let's Build Something
+
+<br>
+
+I'm always interested in building **useful, modern and creative web experiences.**
+
+<br><br>
+
+<a href="https://react-portfolio-2ce53.web.app/">
+<img src="https://img.shields.io/badge/VIEW_PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/mohamed-hamdi-accountofficial/">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="mailto:mohamed.hamdielsaid@gmail.com">
+<img src="https://img.shields.io/badge/SEND_ME_AN_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br><br>
+
+### `build → learn → improve → repeat`
+
+<br>
+
+### ﴿ وَأَنْ لَيْسَ لِلْإِنسَانِ إِلَّا مَا سَعَىٰ ﴾
+
+<br>
+
+<sub>Designed & Built by <b>Mohamed Hamdi</b></sub>
+
+<br><br>
+
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=venom&height=160&section=footer&color=0:0D1117,50:7C3AED,100:06B6D4"
+/>
+
+</div>
